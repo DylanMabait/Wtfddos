@@ -401,15 +401,7 @@ def main():
                 print('      [2] UDP')
                 print('      [3] HTTP')
                 print('Example: stress 1.1.1.1 80 3 1250 60 5')
-                
-                elif "web" in cnc
-                    try:
-                    	ip = cnc.split()[1]
-                        domain = cnc.split()[2]
-                        time = cnc.split()[3]
-                        os.system(f'IP Address')
-                        os.system(f'domain')
-                           
+                                    
 # AMP/GAMES METHODS
 
         elif "samp" in cnc:
